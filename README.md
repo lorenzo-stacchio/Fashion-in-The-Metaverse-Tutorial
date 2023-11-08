@@ -17,6 +17,9 @@ By the end of this tutorial, an attendee could develop a drafted project proposa
 
 ## Online Demos
 
+* Stable Diffusion for Text-To-Image generation --> <a target="_blank" href="https://colab.research.google.com/github/lorenzo-stacchio/Fashion-in-The-Metaverse-Tutorial/blob/main/Artificial%20Intelligence/Fashion_in_the_Metaverse_SD_HF.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
 
 
 
