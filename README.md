@@ -1,4 +1,15 @@
 # Fashion-in-The-Metaverse-Tutorial
+
+[Relator: Lorenzo Stacchio](https://lorenzo-stacchio.github.io/) | [Virtual And Augmented Reality lab](https://site.unibo.it/varlab/en) | [IFIP/ICEC conference](https://icec23.cs.unibo.it/)
+
+
+<p align="center">
+  <img width="460" height="300" src="https://site.unibo.it/varlab/en/dissemination-2/fashion-in-the-metaverse-technologies-applications-and-opportunities-ifip-icec-2023-tutorial/@@images/5ae92396-e406-45ab-9fdf-f17bf24733d1.jpeg">
+</p>
+
+
+
+
 Material for the "Fashion in the Metaverse: Technologies, Applications, and Opportunities" tutorial presented at IFIP ICEC 2023.
 
 This tutorial will provide participants with an overview of how academia and industry are applying Metaverse-related technologies to the entertainment sector, with an emphasis on fashion. Fashion, in fact, appears as an interesting use case, as it integrates:
@@ -8,7 +19,7 @@ This tutorial will provide participants with an overview of how academia and ind
 * Industrial production;
 * Large customer bases.
  
-In the last three decades, different research products and experiences have been proposed based on augmented and virtual reality technologies, but the advent of a Metaverse ecosystem deploying non-fungible tokens, artificial intelligence paradigms, and advanced interfaces is opening completely new scenarios.
+In the last three decades, different research products and experiences have been proposed based on eXtended reality technologies, but the advent of a Metaverse ecosystem deploying non-fungible tokens, artificial intelligence paradigms, and advanced interfaces is opening completely new scenarios.
 
 The material will be presented adopting a methodological approach, proposing taxonomies and analyses that connect to consumer needs, use cases, hardware technologies, and software architectures. The target audience that would most benefit from this tutorial would be entertainment professionals in academia and industry, with a particular interest in cultural heritage preservation, creative aspects, brand identity, and Commerce.
 
