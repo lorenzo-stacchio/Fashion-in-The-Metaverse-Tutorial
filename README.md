@@ -1,6 +1,6 @@
 # Fashion-in-The-Metaverse-Tutorial
 
-[Speaker: Lorenzo Stacchio](https://lorenzo-stacchio.github.io/) | [Virtual And Augmented Reality lab](https://site.unibo.it/varlab/en) | [IFIP/ICEC conference](https://icec23.cs.unibo.it/)
+[Speaker: Lorenzo Stacchio](https://lorenzo-stacchio.github.io/) | [Virtual And Augmented Reality lab](https://site.unibo.it/varlab/en) | [IFIP/ICEC conference](https://icec23.cs.unibo.it/) | [Home page](https://site.unibo.it/varlab/en/dissemination-2/fashion-in-the-metaverse-technologies-applications-and-opportunities-ifip-icec-2023-tutorial)
 
 
 <p align="center">
