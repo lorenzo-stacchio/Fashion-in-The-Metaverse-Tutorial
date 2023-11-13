@@ -41,14 +41,15 @@ By the end of this tutorial, an attendee could develop a drafted project proposa
 </a>
 </p>
 
+* Stable DreamFusion for Text-To-3D generation --> <a target="_blank" href="https://colab.research.google.com/github/lorenzo-stacchio/Fashion-in-The-Metaverse-Tutorial/blob/main/Artificial%20Intelligence/Fashion_in_the_Metaverse_SDreamF.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab - SD"/> </a>
+  
+
 ### eXtended Reality
 
 * [Cloth Simulation with Unity](eXtended_Reality/Cloth_Unity_Demo/) --> Requires Unity 2021.3.x
 
-
-
-
-
+* [Commercial AR Shoes Try-On](https://play.google.com/store/apps/details?id=com.wearfits.objectdetection&hl=it&gl=US) --> [Android](https://play.google.com/store/apps/details?id=com.wearfits.objectdetection&hl=it&gl=US) | [iOS](https://apps.apple.com/it/app/wanna-kicks/id1444049305)
 
 
 ## Publications presented
