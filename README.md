@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://site.unibo.it/varlab/en/dissemination-2/fashion-in-the-metaverse-technologies-applications-and-opportunities-ifip-icec-2023-tutorial/@@images/5ae92396-e406-45ab-9fdf-f17bf24733d1.jpeg">
+  <img width="460" height="300" src="./images/poster.jpeg">
 </p>
 
 
